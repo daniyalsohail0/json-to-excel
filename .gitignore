@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyd
+
+# Excel files
+*.xls
+*.xlsx
+
+# JSON files
+*.json
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.VENV/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VSCode settings (optional)
+.vscode/
+
+# Logs
+*.log
+
+# Cache files
+*.cache
+*.mypy_cache/
